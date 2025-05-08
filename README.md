@@ -1,7 +1,7 @@
 > "First, solve the problem. Then, write the code."
 
 <p align="center">
-    <img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" width="400">
+    <img src="https://avatars.githubusercontent.com/u/124875024?v=4" width="400">
 </p>
 
 ## 🛠️ Skills
