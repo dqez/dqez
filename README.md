@@ -1,11 +1,4 @@
-> "First, solve the problem. Then, write the code."
-
 <p align="center">
-    <img src="https://avatars.githubusercontent.com/u/124875024?v=4" width="400">
-</p>
-
-## 🛠️ Skills
-<p align="left">
     <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
     <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
     <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
