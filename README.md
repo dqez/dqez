@@ -10,7 +10,8 @@
     <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/></a>
     <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
     <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/4/46/ChatGPT_Search_logo_Black_Square_-_rounded_corners.svg" alt="ChatGPT" width="40" height="40"/></a>
-    <a href="#"><img src="https://logowik.com/content/uploads/images/github-copilot1720909346.logowik.com.webp" alt="GitHub Copilot" width="40" height="40"/></a>
+   <a href="#">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Codicons_%E2%80%93_copilot-large.svg" alt="GitHub Copilot" width="40" height="40" style="filter: invert(100%);" /></a>
     <a href="#"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
     <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
     <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
