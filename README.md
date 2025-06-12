@@ -18,5 +18,5 @@
     <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
 </br>
 </br>
-    <a href="#"><img src="https://leetcard.jacoblin.cool/dqez?theme=nord&ext=heatmap" alt="Leetcode" /></a>
+    <a href="#"><img src="https://leetcard.jacoblin.cool/dqez?hide=icon,username,ranking&theme=transparent&ext=heatmap" alt="Leetcode" /></a>
 </p>
