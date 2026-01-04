@@ -20,7 +20,5 @@
     <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" title="TypeScript" width="40" height="40"/></a>
 <!--     <a href="#"><img src="https://leetcard.jacoblin.cool/dqez?hide=username,easy-solved-count,medium-solved-count,hard-solved-count&theme=transparent" alt="Leetcode" /></a> -->
 </p>
-<p align="right">
     [![](https://visitcountpro.itsvg.in/api?id=dqez&label=%20&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)]
     <!-- <img src="https://visitcountpro.itsvg.in/api?id=dqez&label=%20&color=12&icon=5&pretty=false" /> -->
-</p>
