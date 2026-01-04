@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
     <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" width="40" height="40"/></a>
     <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" width="40" height="40"/></a>
     <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="MSSQL" width="40" height="40"/></a>
@@ -19,6 +19,6 @@
     <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Azure" title="Azure" width="40" height="40"/></a>
     <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" title="TypeScript" width="40" height="40"/></a>
 <!--     <a href="#"><img src="https://leetcard.jacoblin.cool/dqez?hide=username,easy-solved-count,medium-solved-count,hard-solved-count&theme=transparent" alt="Leetcode" /></a> -->
-</p>
-    [![](https://visitcountpro.itsvg.in/api?id=dqez&label=%20&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)]
+<!-- </p> --> -->
+[![](https://visitcountpro.itsvg.in/api?id=dqez&label=%20&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)]
     <!-- <img src="https://visitcountpro.itsvg.in/api?id=dqez&label=%20&color=12&icon=5&pretty=false" /> -->
