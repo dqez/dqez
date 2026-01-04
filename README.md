@@ -21,5 +21,6 @@
 <!--     <a href="#"><img src="https://leetcard.jacoblin.cool/dqez?hide=username,easy-solved-count,medium-solved-count,hard-solved-count&theme=transparent" alt="Leetcode" /></a> -->
 </p>
 <p align="right">
-    <img src="https://visitcountpro.itsvg.in/api?id=dqez&label=%20&color=12&icon=5&pretty=false" />
+    [![](https://visitcountpro.itsvg.in/api?id=dqez&label=%20&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
+    <!-- <img src="https://visitcountpro.itsvg.in/api?id=dqez&label=%20&color=12&icon=5&pretty=false" /> -->
 </p>
