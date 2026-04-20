@@ -48,6 +48,6 @@
 </div>
 <div align="right">
   <p >
-      <img src="https://visitcountpro.itsvg.in/api?id=dqez&label=%20&color=12&icon=5&pretty=false" />
+      <img src="https://visitcountpro.itsvg.in/api?id=dqez&label=%20&color=12&icon=5&pretty=false"/>
   </p>
 </div>
